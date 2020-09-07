@@ -7,5 +7,6 @@ public class MyUtil {
 			sum+=i;
 		}
 		return sum;
+		//ªﬂªﬂæﬂ ¿Ã∞Õ ¡ª «ÿ∫¡ ^^
 	}
 }
